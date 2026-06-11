@@ -91,12 +91,6 @@ PCA helps reduce the number of features while retaining most of the important in
 
 ---
 
-## 🏁 Conclusion
-
-Principal Component Analysis (PCA) is a powerful dimensionality reduction technique that transforms high-dimensional data into a smaller set of meaningful components. This project demonstrates both the mathematical intuition and practical implementation of PCA, helping build a strong foundation for feature engineering and data preprocessing.
-
----
-
 ## 💻 Technologies Used
 
 * Python
@@ -104,3 +98,9 @@ Principal Component Analysis (PCA) is a powerful dimensionality reduction techni
 * NumPy
 * Matplotlib
 * Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+Principal Component Analysis (PCA) is a powerful dimensionality reduction technique that transforms high-dimensional data into a smaller set of meaningful components. This project demonstrates both the mathematical intuition and practical implementation of PCA, helping build a strong foundation for feature engineering and data preprocessing.
